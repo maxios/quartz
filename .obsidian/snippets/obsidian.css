@@ -1,0 +1,17 @@
+.internal-query .internal-query-header {
+    display: none;
+}
+
+.search-result-file-matched-text {
+    background-color: none;
+}
+
+.block-language-dataview > h4 {
+    font-size: 10px;
+    margin-bottom: -15px;
+}
+
+.markdown-source-view.mod-cm6 .cm-embed-block {
+    border-color: var(--background-modifier-border);
+    min-height: 50px;
+}

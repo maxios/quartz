@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "e7a01a523033d0e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "e06ec7aa187beff6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "content/notes/editing.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "17edce4acdbda871",
+    "type": "split",
+    "children": [
+      {
+        "id": "766cbd47ba474423",
+        "type": "tabs",
+        "dimension": 63.1467793030623,
+        "children": [
+          {
+            "id": "7077eaf13ea0c746",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2ecb266047f68a72",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#linux",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b2c14d9be3055aac",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "2f99a5d976efb69c",
+        "type": "tabs",
+        "dimension": 36.8532206969377,
+        "children": [
+          {
+            "id": "6002910c700e5157",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/notes/editing.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "7d2ab17f4d8e5824",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/notes/editing.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "31d31905cb932bf3",
+    "type": "split",
+    "children": [
+      {
+        "id": "c451846eb1be46de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b64d8956c2257b79",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "cf204a0f90c71cdc",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4722199adb2f9fac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "30340e8d3ad2b50b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "af3b18f4347811fc",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "120dc6d10cddff97",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          },
+          {
+            "id": "85c44550dc43f76d",
+            "type": "leaf",
+            "state": {
+              "type": "RSS_FEED",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      },
+      {
+        "id": "70bfc39381cce46b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a962c024a2334856",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/notes/editing.md"
+              }
+            }
+          },
+          {
+            "id": "4073fd5c705bf511",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "8c19c41a38a5b915",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac3e72a872284361",
+            "type": "leaf",
+            "state": {
+              "type": "map-of-content",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 400
+  },
+  "active": "e06ec7aa187beff6",
+  "lastOpenFiles": [
+    "content/notes/editing.md",
+    "content/private/private-note.md",
+    "content/_index.md",
+    "README.md",
+    "CODE_OF_CONDUCT.md",
+    "static/icon.png",
+    "book - Gettings things done.md",
+    "mental models.md",
+    "003 MOC Mental.md",
+    "001 MOC Home.md"
+  ]
+}
