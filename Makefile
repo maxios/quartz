@@ -7,7 +7,7 @@ serve: ## serve
 	hugo server
 
 build: ## serve
-	hugo-obsidian -input=content -output=data -index -root=.
+	ls $(GOPATH) && go install github.com/jackyzha0/hugo-obsidian@latest && $(GOPATH)/bin/hugo-obsidian -input=content -output=data -index -root=. && hugo
 
 start: ## serve
 	make build && make serve
